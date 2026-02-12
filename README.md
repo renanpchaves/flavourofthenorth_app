@@ -1,7 +1,12 @@
-# Sabor Express 🍽️
+# Flavour of the North 🍽️  
 
-![Python](https://img.shields.io/badge/python-3.x-blue) ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+  <div align="center">
+
+![Python](https://img.shields.io/badge/python-3.x-blue)
+
 Sistema simples de gerenciamento de restaurantes em Python.
+</div>
+
 
 ## O que faz?
 
