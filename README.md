@@ -14,5 +14,10 @@ Sistema simples de gerenciamento de restaurantes em Python.
 - Lista restaurantes cadastrados
 - Ativa/desativa restaurantes
 
+
 ## Como rodar?
 ```bash
+git clone https://github.com/renanpchaves/flavourofthenorth_app.git
+cd flavourofthenorth_app
+python app.py
+```
